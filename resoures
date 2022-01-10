@@ -1,0 +1,36 @@
+mbc-onair=http://stest.imbc.com/live/onair.m3u8
+mbc-live=http://smart.imbc.com/live/live.m3u8
+SBS 240k=http://h264media.sbs.co.kr/sbsch6/_definst_/ch62.stream/playlist.m3u8
+SBS 640K=http://h264media.sbs.co.kr/sbsch6/_definst_/ch63.stream/playlist.m3u8
+KBS(24ì‹œê°„ ë‰´ìŠ¤ì±„ë„1)=http://news24kbs-2.gscdn.com/news24_800/_definst_/news24_800.stream/playlist.m3u8
+KBS(24ì‹œê°„ ë‰´ìŠ¤ì±„ë„2)=http://news24kbs-2.gscdn.com/news24_300/_definst_/news24_300.stream/playlist.m3u8
+KBS2=http://m.keysco.com:1935/live/keysco01.sdp/playlist.m3u8
+OSB=http://obslive-obsl.ktics.co.kr:1935/obslive/_definst_/obsobs/playlist.m3u8
+CH.K=http://live35.futurewiz.co.kr:1935/live_channelk/vid/playlist.m3u8
+Edaily=http://121.189.8.101:1935/live/smil:auto.smil/playlist.m3u8
+KCTV=http://122.202.129.136:1935/live/ch5/playlist.m3u8
+KCTVN=http://122.202.129.136:1935/live/ch4/playlist.m3u8
+KMTV=http://ssmnet.bridgeplatform.co.kr:1935/liveIPhoneKM/liveIPhoneKM/playlist.m3u8
+CBS=http://cbsl-cbslive.ktics.co.kr:1935/cbsl/_definst_/cbslive/playlist.m3u8
+MBN=http://mbn.shinbnstar.com/videos/ch1/hi/prog_index.m3u8
+MNET=http://ssmnet.bridgeplatform.co.kr:1935/liveIPhoneMNET/liveIPhoneMNET/playlist.m3u8
+MTN=http://live.s-tune.com:1935/liveStream.iphone/mtnLive.sdp/playlist.m3u8
+SpoTV=http://mtving.hscdn.com/spotv/live/playlist.m3u8
+Kiwoom=http://live35.futurewiz.co.kr:1935/live_channelk/vid/playlist.m3u8
+WOW=http://wowmlive.shinbnstar.com:1935/live2/wowtv/playlist.m3u8
+YSTAR=http://wowmlive.shinbnstar.com:1935/live2/wowtv/playlist.m3u8
+ì—°í•©ë‰´ìŠ¤=http://116.125.124.156:1935/live/smil:yonhap.smil/playlist.m3u8
+YTN DMB=http://slive.ytn.co.kr:1935/live/dmb.sdp/playlist.m3u8
+YTN=http://slive.ytn.co.kr:1935/live/ytn_300k.sdp/playlist.m3u8
+YTN ê³¼í•™=http://slive.ytn.co.kr:1935/live/sciencetv.sdp/playlist.m3u8
+ë¹„ì¦ˆë‹ˆìŠ¤ì•¤=http://ko.live.vercoop.com/streamingvideo/chosun/stream.m3u8
+MAPO iTV=http://mapoitv.gscdn.com:1935/mapo/mapo.stream/playlist.m3u8
+í˜„ëŒ€í™ˆì‡¼í•‘=http://116.193.92.26:1935/live/11002.stream/playlist.m3u8
+CJì˜¤ì‡¼í•‘=http://ko.live.vercoop.com/streamingvideo/cjmall/stream/stream_192k.m3u8
+EPL HD=http://daum-iphone.nefficient.co.kr/live/epl.index/Layer4/prog_index.m3u8
+EPL SD=http://daum-iphone.nefficient.co.kr/live/epl.index/Layer2/prog_index.m3u8
+EPL=http://daum-iphone.nefficient.co.kr/live/epl.index/epl.index.m3u8
+NHK=http://plslive-w.nhk.or.jp/nhkworld/app/live.m3u8
+ë‚˜ì‚¬TV=http://akamedia2.lsops.net/live/nasatv_en.sdp/playlist.m3u8
+http://kbs-dokdo.gscdn.com/dokdo_800/_definst_/dokdo_800.stream/playlist.m3u8
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
